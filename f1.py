@@ -5,3 +5,4 @@ class User():
 
 class Tree():
     prop_1 = 'pr'
+    prop_in_b2 = 'b2'
